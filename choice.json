@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Fast Delevery",
+    "img": "https://i.ibb.co/dj5cV1g/adult-blur-blurred-background-687824.png",
+    "icon": "https://i.ibb.co/Tqv79tR/Group-204.png",
+    "discription": "The messages above are short and simple, but they mainly work because they keep customers informed. Even if you have to share difficult information with customers — like late deliveries — let them know. Their customer experience is improved when they know what to expect in advance. Keep in mind, text messages are opened within seconds of being received, so a well-timed message gives customers a chance to make alternate plans."
+  },
+  {
+    "id": 2,
+    "title": "A Good Auto Respoder",
+    "img": "https://i.ibb.co/30cyX8L/architecture-building-city-2047397.png",
+    "icon": "https://i.ibb.co/tz1ngBk/Group-245.png",
+    "discription": "Promotional messages include incentives that encourage customers to come back and buy more. The best time to share these types of messages with customers is after they’ve had time to use your product and experience the value you promised. By this point, they’re more receptive to the special offers because not only do they get to buy products they like, they get to save money while doing so."
+  },
+  {
+    "id": 3,
+    "title": "Home Delevery",
+    "img": "https://i.ibb.co/dJJ55Zt/chef-cook-food-33614.png",
+    "icon": "https://i.ibb.co/kVLHDwq/Group-1133.png",
+    "discription": "Even if you have to share difficult information with customers — like late deliveries — let them know.Promotional messages include incentives that encourage customers to come back and buy more. The best time to share these types of messages with customers is after they’ve had time to use your product and experience the value you promised. By this point, they’re more receptive to the special offers because not only do they get to buy products they like, they get to save money while doing so.ate plans."
+  }
+]
