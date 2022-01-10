@@ -3,27 +3,31 @@
     "id": "breakfast-1",
     "title": "Grand Worden Breakfast",
     "discription": "Eat suger good for health Thanks",
+    "moreInfo" : "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
     "img": "https://i.ibb.co/xqTQ7yC/breakfast1.png",
     "price": 13
   },
   {
     "id": "breakfast-2",
-    "title": "Grand Worden Aho Vatiga",
+    "title": "Super Redox Aho Vatiga",
     "discription": "Eat suger good for health Thanks",
+    "moreInfo" : "Plants, which convert solar energy to food by photosynthesis, are the primary food source. Animals that feed on plants often serve as sources of food for other animals. To learn more about the sequence of transfers of matter and energy in the form of food from organism to organism, see food chain.",
     "img": "https://i.ibb.co/B3KpQxY/breakfast2.png",
     "price": 9
   },
   {
     "id": "breakfast-3",
-    "title": "Grand Worden Jao Vatiga",
+    "title": "Grand Thang Jao Vatiga",
     "discription": "Eat suger good for health Thanks",
+    "moreInfo" : "Food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
     "img": "https://i.ibb.co/Dzgs7XT/breakfast3.png",
     "price": 11
   },
   {
     "id": "breakfast-4",
-    "title": "Grand Worden DGM Vatiga",
+    "title": "Grand Dada DGM Vatiga",
     "discription": "Eat suger good for health Thanks",
+    "moreInfo" : "Essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
     "img": "https://i.ibb.co/LCd7zY0/breakfast4.png",
     "price": 8
   },
@@ -31,6 +35,7 @@
     "id": "breakfast-5",
     "title": "Grand Worden DGM Vatiga",
     "discription": "Eat suger good for health Thanks",
+    "moreInfo" : "Protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
     "img": "https://i.ibb.co/z50NMW3/breakfast5.png",
     "price": 7
   },
@@ -38,6 +43,7 @@
     "id": "breakfast-6",
     "title": "Grand Worden MK Vatiga",
     "discription": "Grand Worden MK Vatiga",
+    "moreInfo" : "Convert solar energy to food by photosynthesis, are the primary food source. Animals that feed on plants often serve as sources of food for other animals. To learn more about the sequence of transfers of matter and energy in the form of food from organism to organism, see food chain.",
     "img": "https://i.ibb.co/Y2LDcvW/breakfast6.png",
     "price": 15
   }
